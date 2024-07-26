@@ -1,2 +1,4 @@
-# A Social Media Web-App
+# InstaVerse
+
+A Social Media Web-App
 
